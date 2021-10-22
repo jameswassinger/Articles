@@ -4,7 +4,7 @@ The 'ValidateNotNull' and 'ValidateNotNullOrEmpty' are parameter attributes that
 
 The provided parameter of the function CANNOT be $null. If the parameter is evaluated to be $null PowerShell generates an error.
 
-![ADVFS - ValidateNotNull](https://github.com/jameswassinger/BLOG/blob/main/MEDIA/ADVFS%20-%20ValidateNotNull.png)
+![ADVFS - ValidateNotNull](https://github.com/jameswassinger/Articles/blob/main/Media/understanding-validatenotnull-and-validatenotnullorempty/ValidateNotNull.png)
 
 ### When to use
 
@@ -16,7 +16,7 @@ The ValidateNotNull attribute should be used when the provided value type is not
 
 ### ValidateNotNull basic example
 
-![ADVFS - ValidateNotNullEx](https://github.com/jameswassinger/BLOG/blob/main/MEDIA/ADVFS%20-%20ValidateNotNullEx.png)
+![ADVFS - ValidateNotNullEx](https://github.com/jameswassinger/Articles/blob/main/Media/understanding-validatenotnull-and-validatenotnullorempty/ValidateNotNullEx.png)
 
 ```
 # Basic example of PowerShell [ValidateNotNull()] attribute
@@ -40,7 +40,7 @@ $MixedDataTypes | ForEach-Object {
 
 ### ValidateNotNull attribute exception handling example
 
-![ADVFS - ValidateNotNull-ATTR-Except](https://github.com/jameswassinger/BLOG/blob/main/MEDIA/ADVFS%20-%20ValidateNotNull-ATTR-Except.png)
+![ADVFS - ValidateNotNull-ATTR-Except](https://github.com/jameswassinger/Articles/blob/main/Media/understanding-validatenotnull-and-validatenotnullorempty/ValidateNotNull-ATTR-Except.png)
 
 ```
 # Generic exception handling example
@@ -68,7 +68,7 @@ try {
 
 ## ValidateNotNull attribute typed exception handling example
 
-![ADVFS - ValidateNotNull - ATTR - Exception Handling EX](https://github.com/jameswassinger/BLOG/blob/main/MEDIA/ADVFS%20-%20ValidateNotNull%20-%20ATTR%20-%20Exception%20Handling%20EX.png)
+![ADVFS - ValidateNotNull - ATTR - Exception Handling EX](https://github.com/jameswassinger/Articles/blob/main/Media/understanding-validatenotnull-and-validatenotnullorempty/ValidateNotNull%20-%20ATTR%20-%20Exception%20Handling%20EX.png)
 
 ```
 # Typed exception handling example
@@ -98,7 +98,7 @@ try {
 
 The provided parameter of the function CANNOT be $null and CANNOT be an empty string (""). PowerShell generates an error.
 
-![ValidateNotNullOrEmpty](https://github.com/jameswassinger/BLOG/blob/main/MEDIA/ValidateNotNullOrEmpty.png)
+![ValidateNotNullOrEmpty](https://github.com/jameswassinger/Articles/blob/main/Media/understanding-validatenotnull-and-validatenotnullorempty/ValidateNotNullOrEmpty.png)
 
 ### When to use
 
@@ -110,7 +110,7 @@ The ValidateNotNullOrEmpty attribute should be used on all parameters within a f
 
 ### ValidateNotNullOrEmpty basic example
 
-![ValidateNotNullOrEmpty-BasicExample](https://github.com/jameswassinger/BLOG/blob/main/MEDIA/ValidateNotNullOrEmpty-BasicExample.png)
+![ValidateNotNullOrEmpty-BasicExample](https://github.com/jameswassinger/Articles/blob/main/Media/understanding-validatenotnull-and-validatenotnullorempty/ValidateNotNullOrEmpty-BasicExample.png)
 
 ```
 function Testing {
@@ -151,7 +151,7 @@ At line:1 char:18
 
 ### ValidateNotNullOrEmpty attribute exception handling
 
-![ValidateNotNullOrEmpty-AttrExceptionHandle](https://github.com/jameswassinger/BLOG/blob/main/MEDIA/ValidateNotNullOrEmpty-AttrExceptionHandle.png)
+![ValidateNotNullOrEmpty-AttrExceptionHandle](https://github.com/jameswassinger/Articles/blob/main/Media/understanding-validatenotnull-and-validatenotnullorempty/ValidateNotNullOrEmpty-AttrExceptionHandle.png)
 
 ```
 function Testing {
@@ -176,7 +176,7 @@ Unable to show the message. Cannot validate argument on parameter 'Message'. The
 
 ### ValidateNotNullOrEmpty attribute typed exception handling
 
-![ValidateNotNullOrEmpty-AttrTypedExceptionHandle](https://github.com/jameswassinger/BLOG/blob/main/MEDIA/ValidateNotNullOrEmpty-AttrTypedExceptionHandle.png)
+![ValidateNotNullOrEmpty-AttrTypedExceptionHandle](https://github.com/jameswassinger/Articles/blob/main/Media/understanding-validatenotnull-and-validatenotnullorempty/ValidateNotNullOrEmpty-AttrTypedExceptionHandle.png)
 
 ```
 function Testing {
