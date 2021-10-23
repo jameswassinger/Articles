@@ -2,7 +2,7 @@
 
 After installing Azure AD Connect, the below error shows when attempting to manually start a sync via Windows PowerShell.
 
-![The-term-Start-ADSyncSyncCycle-is-not-recognized](https://github.com/jameswassinger/Articles/blob/main/Media/The-term-start-adsyncsynccycle-is-not-recognized/The-term-Start-ADSyncSyncCycle-is-not-recognized.png)
+![The-term-Start-ADSyncSyncCycle-is-not-recognized](../Media/The-term-start-adsyncsynccycle-is-not-recognized/The-term-Start-ADSyncSyncCycle-is-not-recognized.png)
 
 ```
 Start-ADSyncSyncCycle : The term 'Start-ADSyncSyncCycle' is not recognized as the name 
@@ -18,14 +18,14 @@ Import the ADSync PowerShell Module.
 Import-Module -Name "C:\Program Files\Microsoft\Azure AD Sync\ADSync" -Verbose
 ```
 
-![The-term-Start-ADSyncSyncCycle-is-not-recognized](https://github.com/jameswassinger/Articles/blob/main/Media/The-term-start-adsyncsynccycle-is-not-recognized/The-term-Start-ADSyncSyncCycle-is-not-recognized0.png)
+![The-term-Start-ADSyncSyncCycle-is-not-recognized](../Media/The-term-start-adsyncsynccycle-is-not-recognized/The-term-Start-ADSyncSyncCycle-is-not-recognized0.png)
 
 Verify that the module is now available. 
 
 ```
 Get-Module
 ```
-![The-term-Start-ADSyncSyncCycle-is-not-recognized](https://github.com/jameswassinger/Articles/blob/main/Media/The-term-start-adsyncsynccycle-is-not-recognized/The-term-Start-ADSyncSyncCycle-is-not-recognized1.png)
+![The-term-Start-ADSyncSyncCycle-is-not-recognized](../Media/The-term-start-adsyncsynccycle-is-not-recognized/The-term-Start-ADSyncSyncCycle-is-not-recognized1.png)
 
 Retry the sync via PowerShell
 
@@ -33,4 +33,4 @@ Retry the sync via PowerShell
 Start-ADSyncSyncCycle -PolicyType Delta
 ```
 
-![The-term-Start-ADSyncSyncCycle-is-not-recognized1](https://github.com/jameswassinger/Articles/blob/main/Media/The-term-start-adsyncsynccycle-is-not-recognized/The-term-Start-ADSyncSyncCycle-is-not-recognized2.png)
+![The-term-Start-ADSyncSyncCycle-is-not-recognized1](../Media/The-term-start-adsyncsynccycle-is-not-recognized/The-term-Start-ADSyncSyncCycle-is-not-recognized2.png)
