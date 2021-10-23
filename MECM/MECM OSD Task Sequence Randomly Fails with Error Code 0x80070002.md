@@ -1,3 +1,5 @@
+# MECM OSD Task Sequence Randomly Fails with Error Code 0x80070002
+
 ![MECM-OSD-Task-Sequence-Randomly-Fails-with-Error-Code-0x80070002](./media/../../Media/mecm-osd-task-sequence-randomly-fails-with-error-code-0x80070002/MECM-OSD-Task-Sequence-Randomly-Fails-with-Error-Code-0x80070002.png)
 
 ## Symptoms

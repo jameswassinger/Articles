@@ -1,3 +1,5 @@
+# The term Start-ADSyncSyncCycle is not recognized
+
 ## Issue
 
 After installing Azure AD Connect, the below error shows when attempting to manually start a sync via Windows PowerShell.

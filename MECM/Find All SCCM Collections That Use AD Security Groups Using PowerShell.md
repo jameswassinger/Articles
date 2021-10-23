@@ -1,3 +1,5 @@
+# Find All SCCM Collections That Use AD Security Groups Using PowerShell
+
 Does your organization use Active Directory Security Groups with SCCM collections?
 
 If you didn't already know, you can fill an SCCM collection by adding an AD Security Group to a membership rule.
