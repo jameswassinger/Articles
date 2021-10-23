@@ -7,7 +7,7 @@
 
 ## Resolution
 
-> This resolution does not apply to MECM version 2103 and later. see, [Enable site system roles for HTTPS or Enhanced HTTP]>> (https://docs.microsoft.com/en-us/mem/configmgr/core/servers/deploy/install/list-of-prerequisite-checks#enable-site-system-roles-for-https-or-enhanced-http) for details.
+> **Warning** This resolution does not apply to MECM version 2103 and later. see, [Enable site system roles for HTTPS or Enhanced HTTP] (https://docs.microsoft.com/en-us/mem/configmgr/core/servers/deploy/install/list-of-prerequisite-checks#enable-site-system-roles-for-https-or-enhanced-http) for details.
 
 ### Enable Allow clients to connect anonymously within the Distribution Point(s)
 
