@@ -10,13 +10,11 @@ A good practice when associating a security group with an SCCM collection is to 
 
 ## Example
 
-**Secuity Group Name:** Contoso Marketing Boards
+* **Secuity Group Name:** Contoso Marketing Boards
+* **SCCM Device Collection Name:** Contoso Marketing Boards
 
-**SCCM Device Collection Name:** Contoso Marketing Boards
-
-**Security Group Name:** Contoso HR Section
-
-**SCCM Device Collection Name:** Contoso HR Section
+* **Security Group Name:** Contoso HR Section
+* **SCCM Device Collection Name:** Contoso HR Section
 
 Yes, I know in an ideal world this would happen, and all naming conventions and best practices would be followed, but this is not an ideal world so...
 
