@@ -1,4 +1,4 @@
-# PowerShell Understanding ValidateNotNull and ValidateNotNullOrEmpty
+# PowerShell: Understanding ValidateNotNull and ValidateNotNullOrEmpty
 
 The 'ValidateNotNull' and 'ValidateNotNullOrEmpty' are parameter attributes that are available within PowerShell advanced functions (see, about_Functions_Advanced). PowerShell advance function parameters and parameter attributes are used to validate and constrain function input. 
 
