@@ -1,4 +1,4 @@
-# The term Start-ADSyncSyncCycle is not recognized
+# Azure: The term Start-ADSyncSyncCycle is not recognized
 
 ## Issue
 
