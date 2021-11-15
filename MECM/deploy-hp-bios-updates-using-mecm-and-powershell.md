@@ -1,4 +1,4 @@
-# Deploy HP BIOs Updates Using SCCM and PowerShell
+# Deploy HP BIOs Updates Using MECM and PowerShell
 
 Have you been tasked to apply bios upgrades to a large quantity of HP workstations? Well, here is a solution that may work for you. In this post, I will walk you through a method for deploying HP BIOS updates to HP workstations using SCCM and PowerShell. Excited? You should be 😊.
 
