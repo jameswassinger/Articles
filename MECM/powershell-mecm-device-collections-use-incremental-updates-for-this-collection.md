@@ -1,4 +1,4 @@
-# PowerShell SCCM Device Collections Use Incremental Updates for this Collection
+# PowerShell: MECM Device Collections Use Incremental Updates for this Collection
 
 If you are a System Center Configuration Manager Administrator and you have delegated rights to the SCCM environment to other IT personnel to create collections you should complete regular checks on device collections within your environment.
 
