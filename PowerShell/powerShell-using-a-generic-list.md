@@ -1,4 +1,4 @@
-# PowerShell Using a Generic List
+# PowerShell: Using a Generic List
 
 If you are currently using ArrayLists in your PowerShell scripts you should probably change them to Generic Lists. Microsoft no longer recommends the use of ArrayList in new deployments, See [ArrayList Class](https://docs.microsoft.com/en-us/dotnet/api/system.collections.arraylist?view=net-5.0#remarks).
 
