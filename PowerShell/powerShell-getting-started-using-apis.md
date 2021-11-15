@@ -1,4 +1,4 @@
-# PowerShell Getting Started Using APIs
+# PowerShell: Getting Started Using APIs
 
 The official definition of an Application Programming Interface (API) is a system of programming tools that enables a program to communicate with another program or an operating system, and that helps software developers create their own applications ([Oxford Dictionaries](https://www.oxfordlearnersdictionaries.com/us/definition/english/application-programming-interface?q=application+programming+interface)).
 
