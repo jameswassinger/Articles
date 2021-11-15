@@ -1,4 +1,4 @@
-# Find All SCCM Collections That Use AD Security Groups Using PowerShell
+# Find All MECM Collections That Use AD Security Groups Using PowerShell
 
 Does your organization use Active Directory Security Groups with SCCM collections?
 
