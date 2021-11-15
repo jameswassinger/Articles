@@ -1,4 +1,4 @@
-# PowerShell Dynamically checking if a member exists in an Active Directory Security Group
+# PowerShell: Dynamically checking if a member exists in an Active Directory Security Group
 
 There may be a time you are provided a list of usernames and asked to double-check that the list belongs to an Active Directory Security Group (AD SG).
 
