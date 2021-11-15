@@ -1,4 +1,4 @@
-# PowerShell Get a List of Installed Applications
+# PowerShell: Get a List of Installed Applications
 
 ## Don't Do...
 
