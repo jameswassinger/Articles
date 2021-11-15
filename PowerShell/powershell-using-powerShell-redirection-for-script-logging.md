@@ -1,4 +1,4 @@
-# Using PowerShell Redirection for Script Logging
+# PowerShell: Using PowerShell Redirection for Script Logging
 
 If you have written a PowerShell script you may have wanted some type of script logging. Logging can be as simple as using the Write-* PowerShell Cmdlets to show output to the PowerShell console to keep track of the scripts progress, troubleshoot, etc.
 
