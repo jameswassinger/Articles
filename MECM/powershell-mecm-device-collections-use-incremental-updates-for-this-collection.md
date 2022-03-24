@@ -8,8 +8,6 @@ Enabling "Use incremental updates for this collection" may cause evaluation dela
 
 Microsoft recommends enabling this option for 200 or fewer device collections within System Center 2012 Configuration Manager. Below are two scripts that can help you determine what collections have the "Use incremental updates for this collection" option enabled and to disable the option and place the device collection on a schedule instead.
 
-> Latest script version on [GitHub](https://github.com/jameswassinger/PowerShell/tree/main/SCRIPTS/MECM) updated 12/2/2020.
-
 ## .\Get-CMAutoIncCollections.ps1
 
 ```powershell
