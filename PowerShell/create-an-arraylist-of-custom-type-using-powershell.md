@@ -1,6 +1,6 @@
 # PowerShell: Create an ArrayList of Custom Type using PowerShell
 
-> For an updated, and best practice method see, [PowerShell Creating a Generic List of Custom Type Using PSCustomObject](PowerShell%20Creating%20a%20Generic%20List%20of%20Custom%20Type%20Using%20PSCustomObject.md)
+> For an updated, and best practice method see, [PowerShell Creating a Generic List of Custom Type Using PSCustomObject](https://github.com/jameswassinger/Articles/blob/main/PowerShell/powershell-creating-a-generic-list-of-custom-type-using-pscustomobject.md)
 
 ## What is a Custom Type?
 
