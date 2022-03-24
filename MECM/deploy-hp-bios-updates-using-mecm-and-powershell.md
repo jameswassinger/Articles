@@ -29,7 +29,7 @@ Let's move on to the script.
 
 ## The Script
 
-The PowerShell script is the important part. I will discuss the script and explain what is happening.  A copy of the full script can be downloaded from [Github](https://github.com/jameswassinger/Articles/tree/main/DeployHpBiosUpdates).
+The PowerShell script is the important part. I will discuss the script and explain what is happening.
 
 ## Running the Script
 
