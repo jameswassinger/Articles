@@ -1,6 +1,6 @@
 # PowerShell: Creating a Generic List of Custom Type Using PSCustomObject
 
-In a previous article I showed how to [Create an ArrayList of Custom Type using PowerShell.](https://www.notion.so/Create-an-ArrayList-of-Custom-Type-using-PowerShell-1cf5f045707c48f4acf53c5d285621ea) In this article I will show you how to create a Generic list of PSCustomObject.
+In a previous article I showed how to [Create an ArrayList of Custom Type using PowerShell.](https://github.com/jameswassinger/Articles/blob/main/PowerShell/create-an-arraylist-of-custom-type-using-powershell.md) In this article I will show you how to create a Generic list of PSCustomObject.
 
 ## PSCustomObject
 
